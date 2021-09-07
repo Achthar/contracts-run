@@ -1,6 +1,6 @@
 export/
 deployments/
-artifacts/
+# artifacts/
 cache/
 coverage/
 node_modules/
